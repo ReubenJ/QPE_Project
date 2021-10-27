@@ -1,0 +1,13 @@
+comp,ss,pvar,df,ms,f,pval,confint
+\rowcolor{gray!8}A: Approach,19089.8,2.95\%,1,19089.8,411.02,3.66e-08,"-38.47, -30.61"
+B: Model,5958.08,0.92\%,1,5958.08,128.28,3.33e-06,"-23.23, -15.37"
+\rowcolor{gray!8}C: Performance,323844.11,50.03\%,1,323844.11,6972.6,4.72e-13,"-146.2, -138.34"
+D: Parallelism,248255.57,38.35\%,1,248255.57,5345.12,1.36e-12,"-128.49, -120.63"
+\rowcolor{gray!8}AB: Approach x Model,,,,,,,,
+\rowcolor{gray!8}CD: Performance x Parallelism,\multirow{ -2}{*}{48226.2},\multirow{ -2}{*}{7.45\%},\multirow{ -2}{*}{1},\multirow{ -2}{*}{48226.2},\multirow{ -2}{*}{1038.34},\multirow{ -2}{*}{9.37e-10},"\multirow{ -2}{*}{50.97, 58.83}"
+AC: Approach x Performance,,,,,,,,
+BD: Model x Parallelism,\multirow{ -2}{*}{1107.44},\multirow{ -2}{*}{0.17\%},\multirow{ -2}{*}{1},\multirow{ -2}{*}{1107.44},\multirow{ -2}{*}{23.84},\multirow{ -2}{*}{1.22e-03},"\multirow{ -2}{*}{4.39, 12.25}"
+\rowcolor{gray!8}BC: Model x Performance,,,,,,,,
+\rowcolor{gray!8}AD: Approach x Parallelism,\multirow{ -2}{*}{412.08},\multirow{ -2}{*}{0.06\%},\multirow{ -2}{*}{1},\multirow{ -2}{*}{412.08},\multirow{ -2}{*}{8.87},\multirow{ -2}{*}{0.018},"\multirow{ -2}{*}{1.15, 9.0}"
+Error,371.56,0.06\%,8,46.45,,,
+\rowcolor{gray!8}Total,647264.84,100\%,16,,,,

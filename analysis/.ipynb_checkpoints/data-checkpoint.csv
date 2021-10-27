@@ -1,0 +1,8 @@
+predictive_fashion_high-perform_paral, 00:01:03.150942100, 00:01:15.521642966
+lazy_fashion_high-perform_no-paral, 00:04:14.918687300, 00:03:54.813675500
+predictive_cifar_high-perform_no-paral, 00:03:50.919315866, 00:03:37.241412200
+lazy_cifar_high-perform_paral, 00:02:24.039178033, 00:02:23.047470366
+predictive_fashion_low-perform_no-paral, 00:09:30.024751533, 00:08:26.233229
+lazy_fashion_low-perform_paral, 00:04:56.818196433, 00:04:34.589865766
+predictive_cifar_low-perform_paral, 00:04:19.840318300, 00:04:25.190930133
+lazy_cifar_low-perform_no-paral, 00:11:44.490919700, 00:11:23.337093923
